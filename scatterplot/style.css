@@ -1,0 +1,13 @@
+body {
+	font-family: Helvetica;
+}
+
+svg {
+  margin: 0 auto;
+  display: block;
+}
+
+.tick line {
+	stroke: #ccc;
+	stroke-dasharray: 10,5;
+}
